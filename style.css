@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #553847;
+  }
+
+#canvas {
+  border: #553847 2px solid;
+}  
+
+footer {
+    margin: 0 auto;
+  }
+
+button {
+  margin-top: 20px;
+  width: 250px;
+  height: 50px;
+  cursor: pointer;
+  border: #553847 2px solid;
+  background: #B3D468;
+  color: #553847;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #8faa4f;
+}
